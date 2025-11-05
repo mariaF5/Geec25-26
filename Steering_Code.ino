@@ -58,6 +58,7 @@ unsigned long elapsedTime = 0;
 unsigned int seconds = 0;
 unsigned int minutes = 0;
 
+// Setup Code
 void setup() {
   // set up the LCD's number of columns and rows:
   delay(200);
